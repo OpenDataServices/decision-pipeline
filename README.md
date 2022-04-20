@@ -1,6 +1,6 @@
 # Decision Pipeline
 
-Documentation for the Decision Pipeline.
+Documentation for the Decision Pipeline, hosted at https://decision-pipeline.readthedocs.io/en/latest/
 
 
 ## Building the documentation
