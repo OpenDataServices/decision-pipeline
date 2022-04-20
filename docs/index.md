@@ -1,75 +1,50 @@
-Open Data Services Sphinx Base
-==============================
+Decision Pipeline
+=================
 
+# Introduction
 
-## Examples
+The Decision Pipeline is a mechanism for representing the progress of all member-level decisions from early-stage refinement work through to acceptance or rejection by the Membership.
 
-Table without horizonal scrollbar:
+The Decision Pipeline consists of three linked things:
 
-```{eval-rst}
-.. list-table::
-    :header-rows: 1
-    :widths: 1 3 1 1
+1. An **agile board** that tracks individual decisions from beginning to end as tickets.
+2. A **reciprocal agreement** that 'decision sponsors' will provide regular updates on the progress and substance of decisions, while Members will stay up-to-date with progress and engage with the substance of decisions when needed.
+3. A **conceptual framework** that describes how decisions progress, comprising decision statuses, roles and responsibilities, and tasks and activities.
 
-    * - A
-      - B
-      - C
-      - D
-    * - Lorem
-      - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec dictum urna non purus tristique pharetra.
-      - Yes
-      - False
-    * - Ipsum
-      - Mauris et lobortis nibh. Nullam vitae velit turpis. Vestibulum facilisis sit amet sapien nec maximus.
-      - No
-      - True
-    * - Dolor
-      - Pellentesque sit amet sapien tincidunt, fringilla dui id, porttitor purus. Nam tincidunt ac ex id porttitor. Praesent varius lectus nisl, ac luctus erat lacinia vitae.
-      - Yes
-      - True
-```
+# Principles
 
-### Markdown reference links
+The Decision Pipeline is based on the following principles:
 
-Link to [a ref](a-ref).
+The Decision Pipeline is **opinionated and prescriptive** about a small number of things:
 
+- Ensuring that decisions in progress are visible. 
+- Standardising how the progress of decisions is represented and updated.
+- Naming and assigning responsibilities and expectations.
 
-```{eval-rst}
-.. _a-ref:
-```
-#### Referenced section
+The Decision Pipeline is **unopinionated and flexible** about a larger number of things, including:
 
-# Markdown inside an admonition
+- How work on decisions is organised and progressed.
+- How decisions are made.
+- How proposals are presented to members.
 
-```{eval-rst}
-.. admonition:: Admonition
-    :class: hint
+At the same time, the Decision Pipeline provides a conceptual framework for both understanding decision-making as it is currently practised and for changing those practices in the future. It does this by:
 
-    .. markdown::
+- Representing the activities that go into shaping, progressing and resolving a decision.
+- Documenting a lack of standardisation, documentation or agreement where appropriate.
+- Building in review and revision of the product, processes and activities to named responsibilities.
 
-        Some markdown [a URL](http://example.org), `single backtick literals`.
-```
-
-(from <https://sphinxcontrib-opendataservices.readthedocs.io/en/latest/misc/>)
-
-# JSONSchema
-
-```{eval-rst}
-.. jsonschema:: _static/example_schema.json
-```
-
-# JSONSchema with docson
-
-<script src="_static/docson/widget.js" data-schema="../../_static/example_schema.json"></script>
-
-For more examples see <https://sphinxcontrib-opendataservices.readthedocs.io/en/latest/jsonschema/>
-
-## Contents
+# Contents
 
 ```{eval-rst}
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+   :glob:
 
-   about
-
+   how-to-use/index
+   products-and-processes/decision-pipeline/index
+   products-and-processes/pipeline-review
+   products-and-processes/decision-register
+   products-and-processes/agreements/index
+   tasks-and-activities/index
+   glossary
 ```

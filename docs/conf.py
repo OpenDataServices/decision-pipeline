@@ -50,8 +50,8 @@ source_suffix = ['.rst', '.md']
 master_doc = 'index'
 
 # General information about the project.
-project = 'Open Data Services Sphinx Base'
-copyright = '2016-2017, Open Data Services'
+project = 'Decision Pipeline'
+copyright = '2022, Open Data Services'
 author = 'Open Data Services'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -82,7 +82,7 @@ language = None
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This patterns also effect to html_static_path and html_extra_path
-exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
+exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', 'snippets']
 
 # The reST default role (used for this markup: `text`) to use for all
 # documents.
@@ -158,7 +158,7 @@ if not on_rtd:  # only import and set the theme if we're building docs locally
 # the docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
 # pixels large.
 #
-# html_favicon = None
+html_favicon = 'assets/favicon.ico'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
@@ -311,7 +311,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'sphinx', 'Open Data Services Sphinx Base',
+    (master_doc, 'sphinx', 'Decision Pipeline',
      [author], 1)
 ]
 
@@ -326,8 +326,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'sphinx', 'Open Data Services Sphinx Base',
-     author, 'sphinx', 'One line description of project.',
+    (master_doc, 'sphinx', 'Decision Pipeline',
+     author, 'sphinx', '',
      'Miscellaneous'),
 ]
 
