@@ -1,13 +1,6 @@
-# Open Data Services Sphinx Base
+# Decision Pipeline
 
-The base Sphinx setup (recommonmark + internationalisation) for Open Data
-Services docs projects.
-
-## Features
-
-* Markdown support (thanks to recommonmark)
-* Internationalisation
-* Wrapping text in tables, to avoid having horizontal scrollbars
+Documentation for the Decision Pipeline.
 
 
 ## Building the documentation
