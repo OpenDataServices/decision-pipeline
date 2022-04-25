@@ -1,14 +1,32 @@
 (async)=
-Staying up-to-date with asynchronous updates
-============================================
+Staying up-to-date with decisions
+=================================
 
-Members MUST read asynchronous updates and relevant supporting material provided by the decision sponsor.
+```{warning} Much of the Decision Pipeline documentation can be considered as guidance or as a framework for visualising how decision-making happens.
 
-Updates will be provided the day before the fortnightly co-op meeting and MUST be read before the meeting itself.
+The sections on providing and engaging with updates are much more prescriptive. The agreement that transparency will be reciprocated with timely engagement is an implicit principle of collective management and is built into the design of the decision pipeline.      
+```
 
-In general:
+Reading updates on decision progress is important for progressing decisions, strengthening democratic member control and holding effective meetings. It is expected that members will read updates before the pipeline review meeting, and as requested for decisions that need urgent attention.
 
-- Early stage decisions will provide summary information only.
-- Decisions at a more advanced stage MAY provide supporting material. 
-- Supporting material SHOULD be tailored to the complexity and potential impact of the decision.
-- Supporting material SHOULD be digestible and useful to members in making the right decision.  
+## Reading regular updates
+
+Members MUST:
+
+- Read asynchronous updates provided in advance of the fortnightly meeting.
+- Read any highlighted changes to a decision summary and any specified supporting information.
+
+```{note} **Example decision update**: increasing basic pay<br>
+
+A decision sponsor issues the following update:
+
+> We have prepared a budget showing the impact of the proposed pay rise. This information has been added to the decision summary. The full budget is available as optional supporting information.
+
+Members should read the updated decision summary and may choose to read the full budget.
+
+```
+
+## Decision updates: what to expect
+
+```{include} ../snippets/decision-types.md
+```

@@ -1,0 +1,1 @@
+The pipeline review meeting is a section of the fortnightly co-op meeting in which the decision pipeline is reviewed, key changes are highlighted, any queries raised, and issues and actions are identified. Decisions may also be scheduled, rescheduled withdrawn, put on hold or delegated.

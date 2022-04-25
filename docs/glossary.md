@@ -51,6 +51,7 @@ Decision Register
 Decision-making Mechanism
     A specified procedure through which a decision will be made (e.g. a Consent decision as specified on the wiki or an Ordinary Motion as specified in the Company Rules).  
 
-
+Pipeline Review
+    A section of the fortnightly co-op meeting in which the decision pipeline is reviewed, key changes are highlighted, any queries raised, and issues and actions are identified. Decisions may also be scheduled, rescheduled withdrawn, put on hold or delegated.
 ```
 

@@ -34,7 +34,7 @@ At the emerging stage a decision summary on pay may be as simple as e.g. “Whet
 :widths: 1 3
 * - Role
   - Responsibilities
-* - {ref}`Decision Sponsor<as_a_decision_sponsor>`
+* - {ref}`decision sponsor<as_a_decision_sponsor>`
   - Provide and keep updated any required information on the decision ticket, including the decision summary.<br><br>Identify and reach out to stakeholders.<br><br>Withdraw decisions that become infeasible. <br><br>Put on hold decisions that are not being worked on.
 * - {ref}`Members<as_a_member>`
   - Read decision summaries for emerging decisions in advance of regular meetings. <br><br>Engage with the decision sponsor and team if you are identified as a stakeholder. <br><br>Identify yourself as a stakeholder based on available information.
@@ -43,19 +43,5 @@ At the emerging stage a decision summary on pay may be as simple as e.g. “Whet
 
 ```
 
-## Workflows
 
-?
-
-```{list-table} Allowed transitions from Emerging status
-:header-rows: 1
-:widths: 1 3
-* - Status
-  - Description
-* - {ref}`in_draft`
-  - On hold, if work on the decision is stalled but not explicitly withdrawn.
-Delegated, if the decision was delegated to a specific group.
-Closed, if work on the decision is stopped for another reason.
-
-```
 

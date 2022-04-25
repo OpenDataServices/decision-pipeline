@@ -11,7 +11,9 @@ titlesonly:
 decision-ticket/index
 decision-summary/index
 decision-statuses/index
+pipeline-review
 decision-making-processes/index
+decision-register
 ```
 
 A representation of all planned and current decisions that the whole membership must make or choose to delegate, place on hold or withdraw.

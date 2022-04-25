@@ -2,10 +2,47 @@
 Attending the pipeline review meeting
 =====================================
 
-The {ref}`pipeline_review` is part of the fortnightly co-op meeting. 
+```{include} ../snippets/pipeline-review-description.md
+```
 
-The meeting will consist of a review of the Agile board review and a structured agenda.
+## Structure
 
-The Agile board review will allow members and employees to ask any clarifying questions arising from asynchronous updates or the board state.
+```{include} ../snippets/pipeline-review-structure.md
+```
 
-The structured agenda will allow for more focused discussion of particular decisions.
+## Roles and responsibilities
+
+### Members
+
+Members should:
+
+- Prepare for the pipeline review by reading asynchronous updates in advance (and any supporting materials as requested).
+- Suggest agenda items in advance of the pipeline review if appropriate.
+
+```{seealso}
+{ref}`async`
+```
+
+### Decision sponsors
+
+Decision sponsors should:
+
+- Ensure that another decision team member can deputise if they are unable to attend the pipeline review.
+- Provide updates to Members in advance of the meeting (and request review of supporting materials if appropriate).
+- Request an agenda item for a new decision, or for a decision that needs particular attention.
+
+```{seealso}
+{ref}`providing_updates`<br>
+{ref}`creating_spaces_for_information_and_feedback`<br>
+{ref}`delegating_a_decision`<br>
+{ref}`withdrawing_a_decision`
+
+```
+
+### Decision portfolio manager
+
+The decision portfolio manager should:
+
+- Chair the pipeline review meeting, including identifying relevant actions and responsibilities.
+- Manage the agenda, including identifying items from the pipeline for discussion with decision sponsors.
+- Check that attendees have read any updates provided before the meeting.  

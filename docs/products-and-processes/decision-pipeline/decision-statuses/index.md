@@ -62,7 +62,7 @@ closed
 * - {ref}`rejected`
   - A decision rejected as a result of a decision-making process.
 * - {ref}`on_hold`
-  - A decision that is not being actively progressed by a decision sponsor or decision team but that has not gone through a decision-making process or been {ref}`withdrawn<withdrawing_decisions>` by the decision sponsor.
+  - A decision that is not being actively progressed by a decision sponsor or decision team but that has not gone through a decision-making process or been {ref}`withdrawn<withdrawing_a_decision>` by the decision sponsor.
 * - {ref}`delegated`
   - A decision that is in its scoping phase but that an individual or group predicts will be escalated to the membership.
 * - {ref}`closed`

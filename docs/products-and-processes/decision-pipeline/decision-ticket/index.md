@@ -17,13 +17,15 @@ All fields listed below are REQUIRED unless stated otherwise.
   - A description of where the decision is in the decision pipeline, chosen from available {ref}`decision statuses<decision_statuses>`.
 * - Parent Ticket
   - Main ticket ID where the work to advance the decision is happening.
+* - Decision Link
+  - A link to the ticket or poll where the decision is taking place.
 * - Description
   - A brief {ref}`decision summary<decision_summary>`, or link to an equivalent summary, at a level of detail appropriate to its impact, complexity and stage in the pipeline.
 * - Assignee
   - The individual or group being notified of the latest update.
 * - Due Date
   - The estimated date that a decision is expected to begin.<br><br>Estimates are expected to be less accurate for decisions earlier in the pipeline.
-* - Decision Sponsor
+* - decision sponsor
   - The individual responsible for the {ref}`decision sponsor<as_a_decision_sponsor>` role. <br><br>A decision-sponsor is optional while a decision has the {ref}`emerging<emerging>` status but progressing a decision REQUIRES the appointment of a decision sponsor.
 * - Decision Team
   - All members of the {ref}`decision team<as_a_decision_team_member>`.

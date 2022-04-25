@@ -1,3 +1,3 @@
-(scheduling_decisions)=
-Scheduling decisions
+(scheduling_a_decision)=
+Scheduling a decision
 ====================

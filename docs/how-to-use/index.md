@@ -3,11 +3,11 @@
 How to use the decision pipeline
 ===================================
 
-People will engage with the decision pipeline in different ways depending on their role. An individual may have multiple roles at the same time.
+People will engage with the decision pipeline in different ways depending on their role. An individual may have multiple roles at the same time.?
 
 ```{toctree}
 ---
-maxdepth: 1
+maxdepth: 0
 titlesonly:
 caption: User roles
 ---
