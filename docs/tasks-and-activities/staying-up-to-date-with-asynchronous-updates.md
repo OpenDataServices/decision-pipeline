@@ -28,5 +28,10 @@ Members should read the updated decision summary and may choose to read the full
 
 ## Decision updates: what to expect
 
+Updates will be sent according to the pipeline review timetable:
+
+```{include} ../snippets/update-timetable.md
+```
+
 ```{include} ../snippets/decision-types.md
 ```

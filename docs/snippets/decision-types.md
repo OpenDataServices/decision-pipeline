@@ -1,6 +1,5 @@
-Regular decision updates should be issued in advance of every fortnightly team meeting. 
 
-### Triggers for a decision update
+### Triggers that require a decision update
 
 A regular update MUST be issued for a decision if:
 
