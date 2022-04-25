@@ -25,7 +25,11 @@ All fields listed below are REQUIRED unless stated otherwise.
   - The individual or group being notified of the latest update.
 * - Due Date
   - The estimated date that a decision is expected to begin.<br><br>Estimates are expected to be less accurate for decisions earlier in the pipeline.
-* - decision sponsor
+* - Decision Start Date
+  - The date that a decision is scheduled to begin. (Scheduled decisions only.)
+* - Decision End Date
+  - The date that a decision is scheduled to end. (Scheduled decisions only.)
+* - Decision Sponsor
   - The individual responsible for the {ref}`decision sponsor<as_a_decision_sponsor>` role. <br><br>A decision-sponsor is optional while a decision has the {ref}`emerging<emerging>` status but progressing a decision REQUIRES the appointment of a decision sponsor.
 * - Decision Team
   - All members of the {ref}`decision team<as_a_decision_team_member>`.
