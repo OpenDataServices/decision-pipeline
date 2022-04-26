@@ -2,11 +2,9 @@
 As the product manager
 ======================
 
-## Role
-
 The product manager role is held by a single named individual.
 
-### Responsibilities
+## Responsibilities
 
 As the product manager you have three responsibilities:
 
