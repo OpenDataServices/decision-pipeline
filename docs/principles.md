@@ -20,4 +20,4 @@ At the same time, the Decision Pipeline provides a conceptual framework for unde
 
 - Representing the activities that go into shaping, progressing and resolving a decision.
 - Documenting a lack of standardisation, documentation or agreement where appropriate.
-- Building in review and revision of the product, processes and activities to named responsibilities.
+- Building in review and revision of the product, processes and activities.
