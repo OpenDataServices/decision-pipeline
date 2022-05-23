@@ -64,7 +64,7 @@ closed
 * - {ref}`on_hold`
   - A decision that is not being actively progressed by a decision sponsor or decision team but that has not gone through a decision-making process or been {ref}`withdrawn<withdrawing_a_decision>` by the decision sponsor.
 * - {ref}`delegated`
-  - A decision that is in its scoping phase but that an individual or group predicts will be escalated to the membership.
+  - A decision for which a smaller group or individual has been chosen to make the decision on behalf of all members.
 * - {ref}`closed`
-  - A decision that is in its scoping phase but that an individual or group predicts will be escalated to the membership.
+  - A decision on which work has stopped for a reason other than completion, pausing or delegation.
 ```
