@@ -15,7 +15,7 @@ Scheduling a decision
 There is no standard approach to scheduling decisions.<br><br> The following information is offered as guidance. The Decision Pipeline includes a regular {ref}`update process<updating_products_processes_and_activities>` through which individual products, processes and activities may be updated or identified for improvements.
 ```
 
-Decision sponsors may wish to consider:
+Decision facilitators may wish to consider:
 
 - Whether a decision would benefit from a rapid cycle of testing via a consent process or whether a decision needs a longer process of consent-building, education and refinement.
 - Whether a decision is "approaching consensus" and would therefore benefit from being tested by a decision-making process. 

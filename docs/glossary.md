@@ -6,10 +6,10 @@ Glossary
 Decision Portfolio Manager
     An individual responsible for scheduling and running the decision pipeline procedures and ensuring that these procedures are followed.
 
-Decision Sponsor
-    An individual responsible for moving a decision through the decision pipeline. A decision sponsor represents the work of a decision team and may be a member of that decision team.
+Decision Facilitator
+    An individual responsible for moving a decision through the decision pipeline. A decision facilitator represents the work of a decision team and may be a member of that decision team.
 
-    A sponsor is not necessarily responsible for implementing a decision.
+    A facilitator is not necessarily responsible for implementing a decision.
 
 Decision Team
     A team responsible for shaping a decision, engaging with stakeholders, and creating supporting materials to help members make a decision. There is no minimum or maximum size of a team.
@@ -21,7 +21,7 @@ Member
 
 Non-member employee
 Employee
-    A non-member employee of the co-op does not directly participate in making decisions but they may participate in the decision-making process in other roles, for example as a stakeholder or decision sponsor.
+    A non-member employee of the co-op does not directly participate in making decisions but they may participate in the decision-making process in other roles, for example as a stakeholder or decision facilitator.
 
 Product Manager
     An individual responsible for maintaining, updating and documenting products and procedures, and ensuring that these meet the needs of the co-op.
@@ -43,7 +43,7 @@ Decision Pipeline
     The pipeline shows the progress of a decision from early-stage refinement work through to acceptance or rejection by the membership.
 
 Decision Pipeline Procedures
-    A set of procedures that ensure that all relevant decisions are represented on the decision pipeline, that members can access timely and relevant information, that members know how to engage with decisions, and that decision sponsors can rely on the membership to engage in an appropriate and timely manner. 
+    A set of procedures that ensure that all relevant decisions are represented on the decision pipeline, that members can access timely and relevant information, that members know how to engage with decisions, and that decision facilitators can rely on the membership to engage in an appropriate and timely manner. 
 
 Decision Register
     A record of all decisions made, and their results.

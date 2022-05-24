@@ -12,7 +12,7 @@ titlesonly:
 caption: User roles
 ---
 as-a-member
-as-a-decision-sponsor
+as-a-decision-facilitator
 as-a-decision-team-member
 as-a-stakeholder
 as-an-employee

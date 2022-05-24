@@ -4,7 +4,7 @@ Joining a decision team
 
 ## How to join a decision team
 
-1. Inform the decision sponsor or another decision team member.
+1. Inform the decision facilitator or another decision team member.
 2. Add yourself to the Decision Team field of the {ref}`decision ticket<decision_ticket>`.
 
 ## When to join a decision team

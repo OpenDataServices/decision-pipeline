@@ -28,7 +28,7 @@ wrap-up
 * - {ref}`in_draft`
   - A decision that is actively being worked on, through shaping a proposal document, identifying and talking to stakeholders and/or preparing supporting documentation.
 * - {ref}`ready_for_comment` (Optional)
-  - A decision where relevant proposals and supporting documents are ready for comment and review outside the sponsoring group. This is an optional stage, used only for complex or significant decisions.
+  - A decision where relevant proposals and supporting documents are ready for comment and review outside the facilitatoring group. This is an optional stage, used only for complex or significant decisions.
 * - {ref}`decision_scheduled`
   - A decision for which a time and date has been set (e.g. at a Friday meeting or OGM) or that is scheduled to begin at a particular time (e.g. an asynchronous poll).
 * - {ref}`decision_in_progress`
@@ -62,7 +62,7 @@ closed
 * - {ref}`rejected`
   - A decision rejected as a result of a decision-making process.
 * - {ref}`on_hold`
-  - A decision that is not being actively progressed by a decision sponsor or decision team but that has not gone through a decision-making process or been {ref}`withdrawn<withdrawing_a_decision>` by the decision sponsor.
+  - A decision that is not being actively progressed by a decision facilitator or decision team but that has not gone through a decision-making process or been {ref}`withdrawn<withdrawing_a_decision>` by the decision facilitator.
 * - {ref}`delegated`
   - A decision that is in its scoping phase but that an individual or group predicts will be escalated to the membership.
 * - {ref}`closed`

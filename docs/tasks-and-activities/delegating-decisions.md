@@ -24,9 +24,9 @@ Members may wish to consider:
 - If any reporting to Members is expected.
 - How they expect to be involved in a delegated decision.
 
-### Decision sponsors
+### Decision facilitators
 
-Decision sponsors and teams may wish to consider:
+Decision facilitators and teams may wish to consider:
 
 - The conditions under which they might need to revert to Members.
 - How they will communicate the progress and conclusion of a delegated decision.
