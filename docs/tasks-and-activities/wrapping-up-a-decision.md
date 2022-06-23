@@ -7,7 +7,7 @@ Wrapping up a decision
 1. Set the status of the ticket to wrap up.
 2. Record the work that needs to be done to wrap the decision up, either in the decision ticket or separately.
 3. Complete the wrap up work and document that it has been done.
-4. Update the decision ticket and change the status to "Accepted" or "Rejected". 
+4. Update the decision ticket and change the status to "Accepted" or "Rejected".
 
 ## Identifying wrap up work
 

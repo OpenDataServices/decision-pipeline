@@ -20,7 +20,9 @@ All fields listed below are REQUIRED unless stated otherwise.
 * - Decision Link
   - A link to the ticket or poll where the decision is taking place.
 * - Description
-  - A brief {ref}`decision summary<decision_summary>`, or link to an equivalent summary, at a level of detail appropriate to its impact, complexity and stage in the pipeline.
+  - Emerging decisions or simple decisions at any stage of the pipeline may provide a {ref}`decision summary<decision_summary>` in the description field.<br><br>Complex decisions must provide a decision summary in a separate document using the `Decision Summary` field.
+* - Decision Summary
+  - A link to a document containing a {ref}`decision summary<decision_summary>`.<br><br>This field is optional for emerging decisions or simple decisions at any stage of the pipeline.
 * - Assignee
   - The individual or group being notified of the latest update.
 * - Due Date
@@ -37,6 +39,10 @@ All fields listed below are REQUIRED unless stated otherwise.
   - The type of {ref}`decision-making process<decision_making_processes>` that is planned.
 * - Event (optional)
   - The event where the decision is planned to take place, e.g. June 2022 OGM.
+* - Team Coordination Ticket
+  - The ticket where the work of progressing the ticket is happening. <br><br>Optional if this is the same as the parent ticket.
+ * - External Communication Ticket
+   - The ticket where any communication with people outside the decision team is happening <br><br>Optional if this is the same as the parent ticket.
 ```
 
 
