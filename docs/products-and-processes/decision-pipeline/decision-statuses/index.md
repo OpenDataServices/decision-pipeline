@@ -66,5 +66,5 @@ closed
 * - {ref}`delegated`
   - A decision that is in its scoping phase but that an individual or group predicts will be escalated to the membership.
 * - {ref}`closed`
-  - A decision that is in its scoping phase but that an individual or group predicts will be escalated to the membership.
+  - A decision that has been withdrawn or closed for another reason.
 ```
