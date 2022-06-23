@@ -23,9 +23,9 @@ Members should:
 {ref}`async`
 ```
 
-### Decision sponsors
+### Decision facilitators
 
-Decision sponsors should:
+Decision facilitators should:
 
 - Ensure that another decision team member can deputise if they are unable to attend the pipeline review.
 - Provide updates to Members in advance of the meeting (and request review of supporting materials if appropriate).
@@ -44,5 +44,5 @@ Decision sponsors should:
 The decision portfolio manager should:
 
 - Chair the pipeline review meeting, including identifying relevant actions and responsibilities.
-- Manage the agenda, including identifying items from the pipeline for discussion with decision sponsors.
+- Manage the agenda, including identifying items from the pipeline for discussion with decision facilitators.
 - Check that attendees have read any updates provided before the meeting.  

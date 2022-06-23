@@ -14,8 +14,8 @@ An in draft decision is a decision that is actively being worked on through shap
 :widths: 1 3
 * - Information
   - Description
-* - Decision sponsor
-  - A single decision sponsor MUST have been identified for all decisions in draft.
+* - Decision facilitator
+  - A single decision facilitator MUST have been identified for all decisions in draft.
 * - Decision summary 
   - A high-level outline of the predicted decision, now refined through the drafting process. The description is likely to include a summary of the likely benefits and impact and any stakeholders who have been identified in scoping the decision. It may include a draft proposal.<br><br>Any draft decision documentation and supporting documents or data must be accessible through the ticket where work is taking place.
 * - Due date
@@ -48,12 +48,12 @@ An "in draft" decision summary for a proposal to increase basic pay may start to
 :widths: 1 3
 * - Role
   - Responsibilities
-* - {ref}`Decision Sponsor<as_a_decision_sponsor>`
+* - {ref}`Decision Facilitator<as_a_decision_facilitator>`
   - Provide and keep updated any required information on the decision ticket, including the decision summary.<br><br> Expand and keep up-to-date the decision summary, including enough information that members and non-member employees are able to identify themselves and others as potential stakeholders.<br><br>Identify and reach out to stakeholders.<br><br>Withdraw decisions that become infeasible.<br><br>Put on hold decisions that are not being worked on.<br><br>Make any draft decision documents and supporting evidence available (though not necessarily invite feedback at this stage).
 * - {ref}`Members<as_a_member>`
-  - Read updated decision summaries and highlighted supporting information in advance of regular meetings. <br><br>Engage with the decision sponsor and team if you are identified as a stakeholder. <br><br>Identify yourself as a stakeholder based on available information.<br><br>Respect the sponsoring group’s need to work autonomously at this stage, unless you want to be involved as a stakeholder or join the sponsoring group.
+  - Read updated decision summaries and highlighted supporting information in advance of regular meetings. <br><br>Engage with the decision facilitator and team if you are identified as a stakeholder. <br><br>Identify yourself as a stakeholder based on available information.<br><br>Respect the facilitatoring group’s need to work autonomously at this stage, unless you want to be involved as a stakeholder or join the facilitatoring group.
 * - {ref}`Decision portfolio manager<as_the_decision_portfolio_manager>`
-  - Identify decisions that have moved beyond the "emerging" stage and into "in draft".<br><br>Ensure that individual decisions have required levels of information and that this is kept up-to-date. <br><br>Ensure that members are engaging with tickets as agreed. <br><br>Identify decisions that are not progressing and work with decision sponsors to put these on hold or restart work.<br><br>Identify decisions that are candidates for delegation or withdrawal.
+  - Identify decisions that have moved beyond the "emerging" stage and into "in draft".<br><br>Ensure that individual decisions have required levels of information and that this is kept up-to-date. <br><br>Ensure that members are engaging with tickets as agreed. <br><br>Identify decisions that are not progressing and work with decision facilitators to put these on hold or restart work.<br><br>Identify decisions that are candidates for delegation or withdrawal.
 ```
 
 ## Workflows

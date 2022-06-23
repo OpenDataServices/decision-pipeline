@@ -11,7 +11,7 @@ Sending regular and timely updates on decision progress is important for buildin
 
 ## Sending regular updates
 
-Decision sponsors MUST:
+Decision facilitators MUST:
 
 - Send an update on a decision in advance of every fortnightly team meeting if relevant progress or change needs to be reported, or if requested to do so.
 

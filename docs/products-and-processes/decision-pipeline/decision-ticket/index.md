@@ -31,8 +31,8 @@ All fields listed below are REQUIRED unless stated otherwise.
   - The date that a decision is scheduled to begin. (Scheduled decisions only.)
 * - Decision End Date
   - The date that a decision is scheduled to end. (Scheduled decisions only.)
-* - Decision Sponsor
-  - The individual responsible for the {ref}`decision sponsor<as_a_decision_sponsor>` role. <br><br>A decision-sponsor is optional while a decision has the {ref}`emerging<emerging>` status but progressing a decision REQUIRES the appointment of a decision sponsor.
+* - Decision Facilitator
+  - The individual responsible for the {ref}`decision facilitator<as_a_decision_facilitator>` role. <br><br>A decision-facilitator is optional while a decision has the {ref}`emerging<emerging>` status but progressing a decision REQUIRES the appointment of a decision facilitator.
 * - Decision Team
   - All members of the {ref}`decision team<as_a_decision_team_member>`.
 * - Decision Type

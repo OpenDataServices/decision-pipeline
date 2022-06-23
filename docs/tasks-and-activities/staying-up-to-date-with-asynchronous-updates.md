@@ -18,7 +18,7 @@ Members MUST:
 
 ```{note} **Example decision update**: increasing basic pay<br>
 
-A decision sponsor issues the following update:
+A decision facilitator issues the following update:
 
 > We have prepared a budget showing the impact of the proposed pay rise. This information has been added to the decision summary. The full budget is available as optional supporting information.
 

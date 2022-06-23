@@ -7,7 +7,7 @@ There is no standardised way of coordinating the work of a decision team, input 
 <br><br>The following information is offered as guidance. The Decision Pipeline includes a regular {ref}`update process<updating_products_processes_and_activities>` through which individual products, processes and activities may be updated or identified for improvements.
 ```
 
-Decision sponsors may wish to consider:
+Decision facilitators may wish to consider:
 
 - Establishing regular check-ins with the decision team.
 - Establishing ownership of relevant documents and tasks.

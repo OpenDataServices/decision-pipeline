@@ -2,7 +2,7 @@
 Communication and transparency agreement
 ========================================
 
-Decision sponsors and decisions teams agree:
+Decision facilitators and decisions teams agree:
 
 - To be transparent about upcoming decisions.
 - To make their work and supporting information accessible whenever possible. 

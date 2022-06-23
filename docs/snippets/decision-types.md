@@ -6,7 +6,7 @@ A regular update MUST be issued for a decision if:
 - The status of the decision has changed.
 - The substance of the decision has changed.
 - The planned decision type, event or schedule has changed.
-- The decision sponsor or team has changed.
+- The decision facilitator or team has changed.
 - There has been material progress on or change to any aspect of the decision summary or supporting information.
 - An update has been requested by a member.
 
